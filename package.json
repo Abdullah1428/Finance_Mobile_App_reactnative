@@ -21,7 +21,7 @@
     "react-native-elements": "1.2.7",
     "react-native-fingerprint-scanner": "3.0.2",
     "react-native-gesture-handler": "1.5.2",
-    "react-native-keyboard-aware-scroll-view": "0.9.1",
+    "react-native-keyboard-aware-scroll-view": "0.9.5",
     "react-native-picker-select": "6.3.3",
     "react-native-progress": "4.0.3",
     "react-native-reanimated": "1.4.0",
